@@ -2319,10 +2319,10 @@ resolve@^1.20.0:
     path-parse "^1.0.7"
     supports-preserve-symlinks-flag "^1.0.0"
 
-retry-axios@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.npmjs.org/retry-axios/-/retry-axios-2.6.0.tgz"
-  integrity sha512-pOLi+Gdll3JekwuFjXO3fTq+L9lzMQGcSq7M5gIjExcl3Gu1hd4XXuf5o3+LuSBsaULQH7DiNbsqPd1chVpQGQ==
+retry-axios@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/retry-axios/-/retry-axios-3.1.0.tgz#ac2b32f6d1dc4179ad783dc821ff089d523edaea"
+  integrity sha512-OQzlG/II3dXP6xocFk03zGgZC3GV/bVCYbMASY2SNDQWjbHktr6vws2N/HtEO+jKGMWas7BEBu3F5zwdf85ivw==
 
 rimraf@^3.0.0:
   version "3.0.2"
